@@ -1,3 +1,6 @@
+URL repo : https://github.com/AlexandreWattel/appweb-trpr01
+URL pages : https://alexandrewattel.github.io/appweb-trpr01/
+
 SECTION IA :
 
 assets: - IconeFigurineRobot a été généré par l'ia
